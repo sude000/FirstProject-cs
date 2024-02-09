@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\source\repos\Ödevler\Ödevler\bin\Debug\net8.0\Ödevler.exe
+C:\Users\EXCALIBUR\source\repos\Ödevler\Ödevler\bin\Debug\net8.0\Ödevler.deps.json
+C:\Users\EXCALIBUR\source\repos\Ödevler\Ödevler\bin\Debug\net8.0\Ödevler.runtimeconfig.json
+C:\Users\EXCALIBUR\source\repos\Ödevler\Ödevler\bin\Debug\net8.0\Ödevler.dll
+C:\Users\EXCALIBUR\source\repos\Ödevler\Ödevler\bin\Debug\net8.0\Ödevler.pdb
+C:\Users\EXCALIBUR\source\repos\Ödevler\Ödevler\obj\Debug\net8.0\Ödevler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\source\repos\Ödevler\Ödevler\obj\Debug\net8.0\Ödevler.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\source\repos\Ödevler\Ödevler\obj\Debug\net8.0\Ödevler.AssemblyInfo.cs
+C:\Users\EXCALIBUR\source\repos\Ödevler\Ödevler\obj\Debug\net8.0\Ödevler.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\source\repos\Ödevler\Ödevler\obj\Debug\net8.0\Ödevler.dll
+C:\Users\EXCALIBUR\source\repos\Ödevler\Ödevler\obj\Debug\net8.0\refint\Ödevler.dll
+C:\Users\EXCALIBUR\source\repos\Ödevler\Ödevler\obj\Debug\net8.0\Ödevler.pdb
+C:\Users\EXCALIBUR\source\repos\Ödevler\Ödevler\obj\Debug\net8.0\Ödevler.genruntimeconfig.cache
+C:\Users\EXCALIBUR\source\repos\Ödevler\Ödevler\obj\Debug\net8.0\ref\Ödevler.dll
